@@ -1,4 +1,4 @@
-# 1Password Connect Helm Charts
+# 1Password Connect Helm Charts test
 
 This repository hosts the offical 1Password Helm Charts for deploying 1Password Connect and the 1Password Connect Kubernetes Operator.
 
